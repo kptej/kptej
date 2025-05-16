@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on DataEngineering
 - 😄 Pronouns: Tej
-- ⚡ Fun fact: keep laughing 😂
-  
+- ⚡ Fun fact: keep laughing 😂  
   
 🚀 Data Engineer | Cloud & Big Data Enthusiast | AI/ML Explorer 🤖
 
