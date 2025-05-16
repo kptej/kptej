@@ -27,6 +27,14 @@ Currently exploring:
 🎓 Projects focused on NLP, recommender systems & time series forecasting
 
 
+🌐 Let’s Connect!
+📂 Check out my projects and notebooks right here on GitHub!
+💬 Open to collaboration on open-source data/AI tools
+📝 Blogging my journey in Data → AI
+
+🔥 Always learning. Always building. Always curious.
+🎯 Making data work smarter — not harder.
+
 <!---
 kptej/kptej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
