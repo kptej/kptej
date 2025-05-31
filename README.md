@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ravi Teja
-- 👀 I’m interested in DataEngineering,DataScience,ML,AI
+- 👀 I’m interested in DataEngineering,DataScience,Artifical Intelligence & Machine Leaning.
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on DataEngineering
 - 😄 Pronouns: Tej
